@@ -3,7 +3,7 @@
   1. Exploratory data analysis and data cleanuphttps://github.com/laxmiadh08/msba-portfolio-laxmi/blob/main/individual/contribution.md
   2. Running all three models
   3. Created a tabular view to comapare these model to selec the optimum model
-  4. Documentation (powerpoitn, final report)
+  4. Documentation (powerpoint, final report)
 
 ### What is one decision or approach you personally advocated for and why?
 
@@ -19,5 +19,7 @@
      the churn.
   2. I did find there was imbalance but due to some tehcnical issue but I chose skip SMOTE or catBoost models, due to technical issues but 
      when checked the score for holdout data was not as good as it should have been, I realized the importance of running these models.
+  3. Block time for Powerpoint design and speaking rehearsals 
+
 
 
