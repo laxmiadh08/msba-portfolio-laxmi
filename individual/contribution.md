@@ -17,9 +17,10 @@
   1. I would definately work more on EDA to find more insights for example I wanted to go deeper since this data was one quarter and there
      were lot of churn 0-3 months meaning these were recently aquired customers, I wanted to know if there was something else causing
      the churn.
-  2. I did find there was imbalance but due to some tehcnical issue but I chose skip SMOTE or catBoost models, due to technical issues but 
+  2. I did find there was imbalance but due to some technical issues I chose skip SMOTE or catBoost models, due to technical issues but 
      when checked the score for holdout data was not as good as it should have been, I realized the importance of running these models.
   3. Block time for Powerpoint design and speaking rehearsals 
+
 
 
 
