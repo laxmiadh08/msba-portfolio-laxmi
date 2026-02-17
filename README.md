@@ -26,10 +26,11 @@ Longer Contract Term: Long-term legal commitments are a primary factor in preven
 ### How to Run the Code
 1. Clone the repository
 2. Install packages listed in the requirement.txt
-3. Run python Churnprediction.py
+3. Run python code Churnprediction
 
 ### Limitation
 The models rely on historical patterns and may not immediately capture sudden shifts in consumer behavior or market trends.
+
 
 
 
